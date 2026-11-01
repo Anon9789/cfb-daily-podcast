@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 01 Nov 2026 06:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Nov 1: USC stuns Ohio State; Miami survives</title>
+      <description>USC upsets No. 2 Ohio State, Miami edges North Carolina, Georgia beats Florida, plus a profile of USC QB Jayden Maiava.</description>
+      <itunes:summary>USC upsets No. 2 Ohio State, Miami edges North Carolina, Georgia beats Florida, plus a profile of USC QB Jayden Maiava.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-01.mp3" length="1803885" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oct 31: Yormark leaves the Big 12; Baylor routs UCF</title>
       <description>Brett Yormark steps down as Big 12 commissioner, Baylor wins its interim coach&#x27;s debut, Florida starts Aaron Philo against Georgia, plus a profile of Yormark.</description>
