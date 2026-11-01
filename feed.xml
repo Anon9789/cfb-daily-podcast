@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>CFB Daily</title>
+    <link>https://github.com/Anon9789/cfb-daily-podcast</link>
+    <language>en-us</language>
+    <description>A personal daily college football briefing: top stories plus one figure worth knowing.</description>
+    <itunes:author>CFB Daily</itunes:author>
+    <itunes:summary>A personal daily college football briefing: top stories plus one figure worth knowing.</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/cover.jpg"/>
+    <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Sun, 01 Nov 2026 06:10:45 GMT</lastBuildDate>
+    <item>
+      <title>Oct 31: Yormark leaves the Big 12; Baylor routs UCF</title>
+      <description>Brett Yormark steps down as Big 12 commissioner, Baylor wins its interim coach&#x27;s debut, Florida starts Aaron Philo against Georgia, plus a profile of Yormark.</description>
+      <itunes:summary>Brett Yormark steps down as Big 12 commissioner, Baylor wins its interim coach&#x27;s debut, Florida starts Aaron Philo against Georgia, plus a profile of Yormark.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-10-31.mp3" length="1588269" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>199</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
