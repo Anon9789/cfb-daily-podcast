@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 01 Nov 2026 13:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:24:36 GMT</lastBuildDate>
+    <item>
+      <title>Nov 2: USC beats Ohio State; FSU fires Norvell</title>
+      <description>Full recap of USC&#x27;s upset of Ohio State, Florida State fires Mike Norvell, the new AP Top 25, plus a profile of Norvell.</description>
+      <itunes:summary>Full recap of USC&#x27;s upset of Ohio State, Florida State fires Mike Norvell, the new AP Top 25, plus a profile of Norvell.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-02.mp3" length="2352429" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>294</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 1: USC stuns Ohio State; Miami survives</title>
       <description>USC upsets No. 2 Ohio State, Miami edges North Carolina, Georgia beats Florida, plus a profile of USC QB Jayden Maiava.</description>
