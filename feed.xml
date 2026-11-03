@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 02 Nov 2026 13:24:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:03:33 GMT</lastBuildDate>
+    <item>
+      <title>Nov 3: Witten takes over Oklahoma&#x27;s offense</title>
+      <description>Oklahoma fires its OC and hands play-calling to Jason Witten, the first CFP rankings arrive tonight, and Jimbo Fisher rumors at FSU, plus a profile of Witten.</description>
+      <itunes:summary>Oklahoma fires its OC and hands play-calling to Jason Witten, the first CFP rankings arrive tonight, and Jimbo Fisher rumors at FSU, plus a profile of Witten.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-03.mp3" length="1731117" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>216</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 2: USC beats Ohio State; FSU fires Norvell</title>
       <description>Full recap of USC&#x27;s upset of Ohio State, Florida State fires Mike Norvell, the new AP Top 25, plus a profile of Norvell.</description>
