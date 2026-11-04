@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 03 Nov 2026 13:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:06:02 GMT</lastBuildDate>
+    <item>
+      <title>Nov 4: First CFP rankings; Wilson at NC State</title>
+      <description>Miami opens No. 1 in the first College Football Playoff rankings and Russell Wilson interviews at NC State, plus a profile of Wilson.</description>
+      <itunes:summary>Miami opens No. 1 in the first College Football Playoff rankings and Russell Wilson interviews at NC State, plus a profile of Wilson.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-04.mp3" length="1563501" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>195</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 3: Witten takes over Oklahoma&#x27;s offense</title>
       <description>Oklahoma fires its OC and hands play-calling to Jason Witten, the first CFP rankings arrive tonight, and Jimbo Fisher rumors at FSU, plus a profile of Witten.</description>
