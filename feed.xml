@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 04 Nov 2026 13:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:02:12 GMT</lastBuildDate>
+    <item>
+      <title>Nov 5: Toney out for Miami; Notre Dame&#x27;s big test</title>
+      <description>Miami&#x27;s Malachi Toney needs ankle surgery before Notre Dame, Holy War and LSU-Alabama injury news, and Tommy Tuberville wins Alabama&#x27;s governorship, plus a profile of Marcus Freeman.</description>
+      <itunes:summary>Miami&#x27;s Malachi Toney needs ankle surgery before Notre Dame, Holy War and LSU-Alabama injury news, and Tommy Tuberville wins Alabama&#x27;s governorship, plus a profile of Marcus Freeman.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-05.mp3" length="1573485" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 4: First CFP rankings; Wilson at NC State</title>
       <description>Miami opens No. 1 in the first College Football Playoff rankings and Russell Wilson interviews at NC State, plus a profile of Wilson.</description>
