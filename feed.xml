@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 05 Nov 2026 13:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:03:58 GMT</lastBuildDate>
+    <item>
+      <title>Nov 6: Miami lands No. 1 recruit; Cignetti vs. ESPN</title>
+      <description>Miami lands the top 2028 recruit, Curt Cignetti swipes at ESPN and the SEC, and Texas loses Hollywood Smothers, plus a profile of Cignetti.</description>
+      <itunes:summary>Miami lands the top 2028 recruit, Curt Cignetti swipes at ESPN and the SEC, and Texas loses Hollywood Smothers, plus a profile of Cignetti.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-06.mp3" length="1565805" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>196</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 5: Toney out for Miami; Notre Dame&#x27;s big test</title>
       <description>Miami&#x27;s Malachi Toney needs ankle surgery before Notre Dame, Holy War and LSU-Alabama injury news, and Tommy Tuberville wins Alabama&#x27;s governorship, plus a profile of Marcus Freeman.</description>
