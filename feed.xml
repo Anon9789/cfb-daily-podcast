@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 06 Nov 2026 13:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:05:07 GMT</lastBuildDate>
+    <item>
+      <title>Nov 7: SEC luxury tax; Arizona&#x27;s onside stunner</title>
+      <description>The SEC weighs a luxury tax on player spending, the NCAA wins an eligibility appeal, and Arizona stuns TCU, plus a profile of Kirby Smart.</description>
+      <itunes:summary>The SEC weighs a luxury tax on player spending, the NCAA wins an eligibility appeal, and Arizona stuns TCU, plus a profile of Kirby Smart.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-07.mp3" length="1726509" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>216</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 6: Miami lands No. 1 recruit; Cignetti vs. ESPN</title>
       <description>Miami lands the top 2028 recruit, Curt Cignetti swipes at ESPN and the SEC, and Texas loses Hollywood Smothers, plus a profile of Cignetti.</description>
