@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 08 Nov 2026 13:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:04:49 GMT</lastBuildDate>
+    <item>
+      <title>Nov 9: Notre Dame beats Miami; Rivers to NC State</title>
+      <description>A full recap of Notre Dame&#x27;s win over No. 1 Miami, Georgia back at No. 1, Michigan fires its OC, plus a profile of Philip Rivers.</description>
+      <itunes:summary>A full recap of Notre Dame&#x27;s win over No. 1 Miami, Georgia back at No. 1, Michigan fires its OC, plus a profile of Philip Rivers.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-09.mp3" length="2199405" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>275</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 8: Notre Dame topples No. 1 Miami</title>
       <description>Notre Dame beats No. 1 Miami, Georgia routs Ole Miss, Oregon beats Ohio State and Utah wins the Holy War, plus a profile of CJ Carr.</description>
