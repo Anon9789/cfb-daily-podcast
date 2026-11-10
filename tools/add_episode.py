@@ -6,7 +6,7 @@ Reads the spoken script, renders it to MP3 with edge-tts, copies it to
 episodes/, keeps the newest KEEP episodes, and rewrites feed.xml from
 episodes/index.json.
 """
-import email.utils, json, os, subprocess, sys, datetime, html
+import email.utils, json, os, subprocess, sys, datetime, html, tempfile, time
 
 BASE = "https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main"
 KEEP = 14
@@ -16,15 +16,33 @@ EP_DIR = os.path.join(ROOT, "episodes")
 INDEX = os.path.join(EP_DIR, "index.json")
 
 
-def render(script, out_mp3):
-    raw = out_mp3 + ".raw.mp3"
-    env = dict(os.environ, SSL_CERT_FILE=os.environ.get("SSL_CERT_FILE", "/root/.ccr/ca-bundle.crt"))
-    cmd = ["edge-tts", "--voice", VOICE, "--rate=+5%", "-f", script, "--write-media", raw]
+def tts(text_file, out, env, tries=6):
+    """Render one chunk; edge-tts intermittently returns NoAudioReceived, so retry."""
+    cmd = ["edge-tts", "--voice", VOICE, "--rate=+5%", "-f", text_file, "--write-media", out]
     if os.environ.get("HTTPS_PROXY"):
         cmd[1:1] = ["--proxy", os.environ["HTTPS_PROXY"]]
-    subprocess.run(cmd, check=True, env=env)
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-ac", "1", "-b:a", "64k", out_mp3], check=True)
-    os.remove(raw)
+    for i in range(tries):
+        if subprocess.run(cmd, env=env, capture_output=True).returncode == 0 and os.path.getsize(out) > 0:
+            return
+        time.sleep(3 * (i + 1))
+    raise RuntimeError(f"edge-tts failed {tries} times on {text_file}")
+
+
+def render(script, out_mp3):
+    """Render paragraph by paragraph (short requests fail less), then join."""
+    env = dict(os.environ, SSL_CERT_FILE=os.environ.get("SSL_CERT_FILE", "/root/.ccr/ca-bundle.crt"))
+    paras = [p.strip() for p in open(script).read().split("\n\n") if p.strip()]
+    with tempfile.TemporaryDirectory() as tmp:
+        parts = []
+        for n, p in enumerate(paras):
+            txt, mp3 = os.path.join(tmp, f"{n:03d}.txt"), os.path.join(tmp, f"{n:03d}.mp3")
+            open(txt, "w").write(p)
+            tts(txt, mp3, env)
+            parts.append(mp3)
+        lst = os.path.join(tmp, "list.txt")
+        open(lst, "w").write("".join(f"file '{m}'\n" for m in parts))
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst,
+                        "-ac", "1", "-b:a", "64k", out_mp3], check=True)
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                 "-of", "csv=p=0", out_mp3], capture_output=True, text=True).stdout)
     return int(round(dur))
