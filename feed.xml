@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 10 Nov 2026 13:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:04:48 GMT</lastBuildDate>
+    <item>
+      <title>Nov 11: Georgia takes the top spot</title>
+      <description>Georgia is No. 1 in the CFP rankings, Rutgers keeps Greg Schiano, Deion Sanders takes the blame, plus Who to Know: Greg Schiano.</description>
+      <itunes:summary>Georgia is No. 1 in the CFP rankings, Rutgers keeps Greg Schiano, Deion Sanders takes the blame, plus Who to Know: Greg Schiano.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-11.mp3" length="1873773" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 10: The Playoff goes to 24 teams</title>
       <description>The CFP expands to 24 teams, FSU hires Jeff Purinton, Georgia flips Mark Matthews, plus Who to Know: Will Muschamp.</description>
