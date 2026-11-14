@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 13 Nov 2026 13:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:06:21 GMT</lastBuildDate>
+    <item>
+      <title>Nov 14: Game day travel chaos</title>
+      <description>An FAA ground stop scrambles the weekend, Colorado stuns Houston, UCLA hits 10 wins, Rivers is official, plus Who to Know: Robert Griffin III.</description>
+      <itunes:summary>An FAA ground stop scrambles the weekend, Colorado stuns Houston, UCLA hits 10 wins, Rivers is official, plus Who to Know: Robert Griffin III.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-14.mp3" length="1696557" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>212</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 13: UCLA moves to keep Chesney</title>
       <description>UCLA works on a new deal for Bob Chesney, Wake Forest extends Jake Dickert, Ole Miss loses Kewan Lacy, plus Who to Know: Bob Chesney.</description>
@@ -140,16 +150,6 @@
       <guid isPermaLink="false">cfb-daily-2026-11-01</guid>
       <pubDate>Sun, 01 Nov 2026 12:10:00 GMT</pubDate>
       <itunes:duration>225</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Oct 31: Yormark leaves the Big 12; Baylor routs UCF</title>
-      <description>Brett Yormark steps down as Big 12 commissioner, Baylor wins its interim coach&#x27;s debut, Florida starts Aaron Philo against Georgia, plus a profile of Yormark.</description>
-      <itunes:summary>Brett Yormark steps down as Big 12 commissioner, Baylor wins its interim coach&#x27;s debut, Florida starts Aaron Philo against Georgia, plus a profile of Yormark.</itunes:summary>
-      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-10-31.mp3" length="1588269" type="audio/mpeg"/>
-      <guid isPermaLink="false">cfb-daily-2026-10-31</guid>
-      <pubDate>Sat, 31 Oct 2026 12:10:00 GMT</pubDate>
-      <itunes:duration>199</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
