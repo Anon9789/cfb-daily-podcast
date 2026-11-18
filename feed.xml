@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 17 Nov 2026 13:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:02:19 GMT</lastBuildDate>
+    <item>
+      <title>Nov 18: Texas jumps Notre Dame</title>
+      <description>Texas passes Notre Dame in the CFP rankings, Michigan hires Trev Alberts, Swinney digs in, plus Who to Know: Trev Alberts.</description>
+      <itunes:summary>Texas passes Notre Dame in the CFP rankings, Michigan hires Trev Alberts, Swinney digs in, plus Who to Know: Trev Alberts.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-18.mp3" length="1758957" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>220</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 17: Brawl suspensions, coaches out</title>
       <description>The ACC suspends two players after the Louisville-UNC brawl, Butch Jones and Scotty Walden are out, LSU leaves the AP poll, plus Who to Know: Butch Jones.</description>
@@ -140,16 +150,6 @@
       <guid isPermaLink="false">cfb-daily-2026-11-05</guid>
       <pubDate>Thu, 05 Nov 2026 12:10:00 GMT</pubDate>
       <itunes:duration>197</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Nov 4: First CFP rankings; Wilson at NC State</title>
-      <description>Miami opens No. 1 in the first College Football Playoff rankings and Russell Wilson interviews at NC State, plus a profile of Wilson.</description>
-      <itunes:summary>Miami opens No. 1 in the first College Football Playoff rankings and Russell Wilson interviews at NC State, plus a profile of Wilson.</itunes:summary>
-      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-04.mp3" length="1563501" type="audio/mpeg"/>
-      <guid isPermaLink="false">cfb-daily-2026-11-04</guid>
-      <pubDate>Wed, 04 Nov 2026 12:10:00 GMT</pubDate>
-      <itunes:duration>195</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
