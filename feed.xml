@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 18 Nov 2026 13:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:09:30 GMT</lastBuildDate>
+    <item>
+      <title>Nov 19: LSU vs. the SEC escalates</title>
+      <description>A judge scolds LSU&#x27;s lawyers and Georgia&#x27;s AG urges SEC action, Sellers returns, Meyer isn&#x27;t a Maryland candidate, plus Who to Know: Rick Stockstill.</description>
+      <itunes:summary>A judge scolds LSU&#x27;s lawyers and Georgia&#x27;s AG urges SEC action, Sellers returns, Meyer isn&#x27;t a Maryland candidate, plus Who to Know: Rick Stockstill.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-19.mp3" length="1470573" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>184</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 18: Texas jumps Notre Dame</title>
       <description>Texas passes Notre Dame in the CFP rankings, Michigan hires Trev Alberts, Swinney digs in, plus Who to Know: Trev Alberts.</description>
@@ -140,16 +150,6 @@
       <guid isPermaLink="false">cfb-daily-2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 12:10:00 GMT</pubDate>
       <itunes:duration>196</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Nov 5: Toney out for Miami; Notre Dame&#x27;s big test</title>
-      <description>Miami&#x27;s Malachi Toney needs ankle surgery before Notre Dame, Holy War and LSU-Alabama injury news, and Tommy Tuberville wins Alabama&#x27;s governorship, plus a profile of Marcus Freeman.</description>
-      <itunes:summary>Miami&#x27;s Malachi Toney needs ankle surgery before Notre Dame, Holy War and LSU-Alabama injury news, and Tommy Tuberville wins Alabama&#x27;s governorship, plus a profile of Marcus Freeman.</itunes:summary>
-      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-05.mp3" length="1573485" type="audio/mpeg"/>
-      <guid isPermaLink="false">cfb-daily-2026-11-05</guid>
-      <pubDate>Thu, 05 Nov 2026 12:10:00 GMT</pubDate>
-      <itunes:duration>197</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
