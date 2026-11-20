@@ -11,7 +11,17 @@
     <itunes:category text="Sports"><itunes:category text="Football"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 19 Nov 2026 13:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:09:54 GMT</lastBuildDate>
+    <item>
+      <title>Nov 20: Agents blast SEC contracts</title>
+      <description>Agents push back on the SEC&#x27;s uniform player contracts, JMU joins the American early, Kiffin returns to Knoxville, plus Who to Know: Josh Heupel.</description>
+      <itunes:summary>Agents push back on the SEC&#x27;s uniform player contracts, JMU joins the American early, Kiffin returns to Knoxville, plus Who to Know: Josh Heupel.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-20.mp3" length="1549485" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfb-daily-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 12:10:00 GMT</pubDate>
+      <itunes:duration>194</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nov 19: LSU vs. the SEC escalates</title>
       <description>A judge scolds LSU&#x27;s lawyers and Georgia&#x27;s AG urges SEC action, Sellers returns, Meyer isn&#x27;t a Maryland candidate, plus Who to Know: Rick Stockstill.</description>
@@ -140,16 +150,6 @@
       <guid isPermaLink="false">cfb-daily-2026-11-07</guid>
       <pubDate>Sat, 07 Nov 2026 12:10:00 GMT</pubDate>
       <itunes:duration>216</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Nov 6: Miami lands No. 1 recruit; Cignetti vs. ESPN</title>
-      <description>Miami lands the top 2028 recruit, Curt Cignetti swipes at ESPN and the SEC, and Texas loses Hollywood Smothers, plus a profile of Cignetti.</description>
-      <itunes:summary>Miami lands the top 2028 recruit, Curt Cignetti swipes at ESPN and the SEC, and Texas loses Hollywood Smothers, plus a profile of Cignetti.</itunes:summary>
-      <enclosure url="https://raw.githubusercontent.com/Anon9789/cfb-daily-podcast/main/episodes/cfb-daily-2026-11-06.mp3" length="1565805" type="audio/mpeg"/>
-      <guid isPermaLink="false">cfb-daily-2026-11-06</guid>
-      <pubDate>Fri, 06 Nov 2026 12:10:00 GMT</pubDate>
-      <itunes:duration>196</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
